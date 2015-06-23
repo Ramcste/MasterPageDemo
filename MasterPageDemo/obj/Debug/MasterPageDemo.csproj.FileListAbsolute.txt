@@ -1,0 +1,6 @@
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\MasterPageDemo\MasterPageDemo\bin\MasterPageDemo.dll.config
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\MasterPageDemo\MasterPageDemo\bin\MasterPageDemo.dll
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\MasterPageDemo\MasterPageDemo\bin\MasterPageDemo.pdb
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\MasterPageDemo\MasterPageDemo\obj\Debug\MasterPageDemo.csprojResolveAssemblyReference.cache
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\MasterPageDemo\MasterPageDemo\obj\Debug\MasterPageDemo.dll
+H:\Workspace\Visual Studio 2013\Projects\Web Application Project\MasterPageDemo\MasterPageDemo\obj\Debug\MasterPageDemo.pdb
